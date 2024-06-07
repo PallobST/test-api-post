@@ -3,7 +3,7 @@ const cors = require('cors');
 const data = require('./data/posts.json');
 
 const app = express();
-const PORT = 3000;
+const PORT = 3002;
 
 app.use(cors());
 
